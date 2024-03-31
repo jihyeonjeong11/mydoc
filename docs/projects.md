@@ -2,6 +2,31 @@
 sidebar_position: 1
 ---
 
+# CSS Challenge
+
+I'll be honest. I'm bad at CSS. But We have always a room for improvements!
+
+## From January 2023
+
+I'm solving challenges from **[100dayscss](https://100dayscss.com/)**!
+
+Hello, me! I can find my progress **[here](https://100dayscss.com/progress/jihyeonjeong11/)**!
+
+### Or, for quick reminders I'll write down some details
+
+1.  Day 1
+
+<iframe height="300" width="300" scrolling="no" title="css-challenge day1" src="https://codepen.io/jihyeonjeong11/embed/ZEwPXYb?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/jihyeonjeong11/pen/ZEwPXYb">
+  css-challenge day1</a> by jihyeonjeong11 (<a href="https://codepen.io/jihyeonjeong11">@jihyeonjeong11</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+2.  Day 2
+3.  Day 3
+
+<!--
+
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
@@ -45,3 +70,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+-->
